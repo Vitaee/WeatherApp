@@ -3,8 +3,7 @@
 A Flutter project with an api.
 
 # Screenshot of App
-
-![HomePage](https://i.hizliresim.com/uXLE5l.png=250x250)
+<img src="https://i.hizliresim.com/uXLE5l.png" alt="HomePage" width="200" height="400" />
 
 ## Getting Started
 
