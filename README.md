@@ -1,6 +1,10 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A Flutter project with an api.
+
+# Screenshot of App
+
+![HomePage](https://i.hizliresim.com/uXLE5l.png)
 
 ## Getting Started
 
